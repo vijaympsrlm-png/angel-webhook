@@ -1,4 +1,0 @@
-flask
-SmartAPI-python
-pyotp
-gunicorn
